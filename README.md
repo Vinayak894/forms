@@ -7,6 +7,7 @@ Here’s a clean, professional **README.md** you can use for your simple static 
 A clean and minimal static website featuring a responsive form built using **HTML** and **CSS**. This project is ideal for beginners learning web development and form design.
 
 ---
+<img width="1365" height="722" alt="image" src="https://github.com/user-attachments/assets/d4300e0c-2a4a-4a53-aeb7-f7493236315a" />
 
 ## 📌 Features
 
